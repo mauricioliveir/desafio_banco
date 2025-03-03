@@ -121,14 +121,18 @@ O sistema bancário oferece as seguintes funcionalidades:
    python desafio_bancoario.py
 
 
-## 📂 Estrutura do Projeto
-   <div>
-   ```bash
-      Suzano - Pyhon Developer/
-      ├── desafio_banco.py  # Código principal do sistema
-      ├── README.md            # Documentação do projeto
-      └── .gitignore           # Arquivo para ignorar arquivos desnecessários no Git
-   </div>
+<h2>📂 Estrutura do Projeto</h2>
+
+<ul>
+  <li>📁 <strong>Suzano - Python Developer</strong></li>
+  <ul>
+    <li>📄 <code>desafio_banco.py</code> - Código principal do sistema</li>
+    <li>📄 <code>README.md</code> - Documentação do projeto</li>
+    <li>📄 <code>.gitignore</code> - Arquivo para ignorar arquivos desnecessários no Git</li>
+  </ul>
+</ul>
+
+
    
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo:
