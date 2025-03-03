@@ -123,14 +123,15 @@ O sistema bancário oferece as seguintes funcionalidades:
 
 <h2>📂 Estrutura do Projeto</h2>
 
-<ul>
-  <li>📁 <strong>Suzano - Python Developer</strong></li>
-  <ul>
-    <li>📄 <code>desafio_banco.py</code> - Código principal do sistema</li>
-    <li>📄 <code>README.md</code> - Documentação do projeto</li>
-    <li>📄 <code>.gitignore</code> - Arquivo para ignorar arquivos desnecessários no Git</li>
-  </ul>
-</ul>
+   <ul>
+      <li>📁 <strong>Suzano - Python Developer</strong></li>
+      <ul>
+         <li>📄 <code>desafio_banco.py</code> - Código principal do sistema</li>
+         <li>📄 <code>README.md</code> - Documentação do projeto</li>
+         <li>📄 <code>.gitignore</code> - Arquivo para ignorar arquivos desnecessários no Git</li>
+         <li>📄 <code>LICENSE</code> - Licença do projeto</li>
+      </ul>
+   </ul>
 
 
    
