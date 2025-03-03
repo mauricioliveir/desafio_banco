@@ -9,7 +9,7 @@
 
 # 🏦 Sistema Bancário em Python 💻
 
-Um sistema bancário simples desenvolvido em Python para o desafio do Bootcamp Suzano - Python Developer para gerenciar operações básicas de depósito, saque e extrato. Este projeto foi criado como parte de um desafio de programação.
+Um sistema bancário simples desenvolvido em Python para o desafio da DIO Bootcamp Suzano - Python Developer para gerenciar operações básicas de depósito, saque e extrato. Este projeto foi criado como parte de um desafio de programação.
 
 ---
 
@@ -67,7 +67,7 @@ O sistema bancário oferece as seguintes funcionalidades:
    - Abra o terminal e navegue até o diretório do projeto.
    - Execute o seguinte comando:
      ```bash
-     python sistema_bancario.py
+     python desafio_banco.py
      ```
 
 2. **Menu de Opções**:
@@ -124,8 +124,8 @@ O sistema bancário oferece as seguintes funcionalidades:
 ## 📂 Estrutura do Projeto
    <div>
    ```bash
-      sistema-bancario-python/
-      ├── sistema_bancario.py  # Código principal do sistema
+      Suzano - Pyhon Developer/
+      ├── desafio_banco.py  # Código principal do sistema
       ├── README.md            # Documentação do projeto
       └── .gitignore           # Arquivo para ignorar arquivos desnecessários no Git
    </div>
