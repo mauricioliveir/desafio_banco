@@ -1,8 +1,10 @@
 <div align="center">
-  Suzano - Python Developer
-  <a href="https://web.dio.me/track/823e5de7-79a5-44fe-a472-cfe6bb0fec00">
-    <img src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" width="300" alt="imagem Python Developer" />
-  </a>
+   <p> SUZANO - PYTHON DEVELOPER </p>  
+</div>
+<div align="center">
+   <a href="https://web.dio.me/track/823e5de7-79a5-44fe-a472-cfe6bb0fec00">
+      <img src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" width="200" alt="imagem Python Developer" />
+   </a>
 </div>
 
 # 🏦 Sistema Bancário em Python 💻
