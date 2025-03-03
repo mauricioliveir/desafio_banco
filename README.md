@@ -118,7 +118,7 @@ O sistema bancário oferece as seguintes funcionalidades:
 3. **Execute o Sistema**:
 
    ```bash
-   python desafio_bancoario.py
+   python desafio_banco.py
 
 
 <h2>📂 Estrutura do Projeto</h2>
