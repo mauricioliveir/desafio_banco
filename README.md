@@ -122,11 +122,14 @@ O sistema bancário oferece as seguintes funcionalidades:
 
 
 ## 📂 Estrutura do Projeto
-sistema-bancario-python/
-├── sistema_bancario.py  # Código principal do sistema
-├── README.md            # Documentação do projeto
-└── .gitignore           # Arquivo para ignorar arquivos desnecessários no Git
-
+   <div>
+   ```bash
+      sistema-bancario-python/
+      ├── sistema_bancario.py  # Código principal do sistema
+      ├── README.md            # Documentação do projeto
+      └── .gitignore           # Arquivo para ignorar arquivos desnecessários no Git
+   </div>
+   
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo:
 
@@ -168,8 +171,10 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 ---
 
 <div align="center">
-  Feito com ❤️ por **Mauricio** 🚀  
-  <a href="https://github.com/mauricioliveir">
-    <img src="https://avatars.githubusercontent.com/u/83318403?v=4" width="100" alt="Avatar de Mauricio" />
-  </a>
+  Feito com ❤️ por **Mauricio** 🚀
+   <div align="center"> 
+      <a href="https://github.com/mauricioliveir">
+         <img src="https://avatars.githubusercontent.com/u/83318403?v=4" width="100" alt="Avatar de Mauricio" />
+      </a>
+   </div>
 </div>
